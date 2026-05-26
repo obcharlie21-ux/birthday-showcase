@@ -120,10 +120,10 @@ const PasswordScreen = ({ onCorrectPassword }) => {
           </motion.div>
         </motion.div>
 
-        {/* B. HANDWRITTEN SIGNATURE TEXT IN SCARLET - FROM RAGHOD & FOR TAWFIKK */}
+        {/* B. HANDWRITTEN SIGNATURE TEXT IN SCARLET - FROM MONMON & FOR SEDO */}
         <div className="font-handwritten text-base font-bold text-[#8a1420] text-center italic leading-none mb-2">
-          <p className="m-0">from : raghod</p>
-          <p className="m-0 mt-0.5">for : tawfik</p>
+          <p className="m-0">from : monmon</p>
+          <p className="m-0 mt-0.5">for : sedo</p>
         </div>
 
         {/* C. PIN dot indicators */}

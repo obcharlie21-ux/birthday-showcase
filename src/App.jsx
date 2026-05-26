@@ -789,8 +789,8 @@ function App() {
                     ❤
                   </div>
                   <div className="font-handwritten text-[#fbc6cb] text-xl leading-snug">
-                    <p>From: <span className="font-bold">Raghod</span></p>
-                    <p>For: <span className="font-bold">Tawfik</span></p>
+                    <p>From: <span className="font-bold">Monmon</span></p>
+                    <p>For: <span className="font-bold">Sedo</span></p>
                   </div>
                 </div>
               </section>
