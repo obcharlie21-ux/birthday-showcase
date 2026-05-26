@@ -6,7 +6,7 @@ const PasswordScreen = ({ onCorrectPassword }) => {
   const [error, setError] = useState(false);
   const [unlocked, setUnlocked] = useState(false);
 
-  const CORRECT_PIN = '2356';
+  const CORRECT_PIN = '5526';
 
   const handleKeyPress = (value) => {
     if (value === 'delete') {
